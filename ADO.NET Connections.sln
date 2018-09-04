@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET Connections", "ADO.NET Connections\ADO.NET Connections.csproj", "{E1AA6AD5-06F7-4ECA-86ED-BB523457D7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalFantasyI", "FinalFantasyI\FinalFantasyI.csproj", "{1F561AAB-1A1D-4C89-A8F3-E84DEC6F5026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AA6AD5-06F7-4ECA-86ED-BB523457D7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AA6AD5-06F7-4ECA-86ED-BB523457D7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AA6AD5-06F7-4ECA-86ED-BB523457D7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AA6AD5-06F7-4ECA-86ED-BB523457D7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F561AAB-1A1D-4C89-A8F3-E84DEC6F5026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F561AAB-1A1D-4C89-A8F3-E84DEC6F5026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F561AAB-1A1D-4C89-A8F3-E84DEC6F5026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F561AAB-1A1D-4C89-A8F3-E84DEC6F5026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6557C3C6-7827-4A83-B9B7-EB5DE717020F}
+	EndGlobalSection
+EndGlobal

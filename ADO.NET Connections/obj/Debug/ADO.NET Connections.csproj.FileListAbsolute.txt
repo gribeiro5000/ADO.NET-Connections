@@ -1,0 +1,20 @@
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\ADO.NET Connections.exe.config
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\ADO.NET Connections.exe
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\ADO.NET Connections.pdb
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\obj\Debug\ADO.NET Connections.csprojAssemblyReference.cache
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\obj\Debug\ADO.NET Connections.csproj.CoreCompileInputs.cache
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\obj\Debug\ADO.NET Connections.exe
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\obj\Debug\ADO.NET Connections.pdb
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\FinalFantasyI.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\System.Data.SQLite.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\FinalFantasyI.pdb
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\FinalFantasyI.dll.config
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\System.Data.SQLite.xml
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\obj\Debug\ADO.NET Connections.csproj.CopyComplete
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\EntityFramework.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\EntityFramework.xml
+C:\Users\gribe\source\repos\ADO.NET Connections\ADO.NET Connections\bin\Debug\EntityFramework.SqlServer.xml

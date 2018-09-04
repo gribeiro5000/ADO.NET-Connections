@@ -1,0 +1,17 @@
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\FinalFantasyI.dll.config
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\FinalFantasyI.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\FinalFantasyI.pdb
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\EntityFramework.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\System.Data.SQLite.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\EntityFramework.xml
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\System.Data.SQLite.xml
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\obj\Debug\FinalFantasyI.csproj.CoreCompileInputs.cache
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\obj\Debug\FinalFantasyI.csproj.CopyComplete
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\obj\Debug\FinalFantasyI.dll
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\obj\Debug\FinalFantasyI.pdb
+C:\Users\gribe\source\repos\ADO.NET Connections\FinalFantasyI\obj\Debug\FinalFantasyI.csprojAssemblyReference.cache
